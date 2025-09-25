@@ -55,7 +55,7 @@ Governments and multinational firms require timely and accurate forecasts of eco
 * The Total Value of Stock Trading emerged as a significant predictor, substantially improving model performance over baseline regression and Random Forest models (baseline $R 
 ^2$≈0.48).
 * The final Random Forest Regressor achieved a robust $R^2$ of 0.89 and an RMSE of 5,355 on the test set after hyperparameter tuning.
-*The most influential predictors included 'Stock traded total value', 'School enrollment (secondary)', 'Life expectancy at birth', and 'Mobile cellular subscriptions'.
+* The most influential predictors included 'Stock traded total value', 'School enrollment (secondary)', 'Life expectancy at birth', and 'Mobile cellular subscriptions'.
 
 ### My recommendations:
 * Integrate the Stock Traded Total Value indicator into all economic forecasting and policy planning models due to its demonstrated high predictive power.
