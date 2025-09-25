@@ -19,7 +19,7 @@ I invite you to explore my projects. Feel free to email me at mathminagong@gmail
 # Projects
 
 ## Project 1: Credit Card Fraud Detection using Machine Learning 
-[Link to code](https://github.com/MinaGong/fraud_detection/)
+[Link to the project](https://github.com/MinaGong/fraud_detection/)
 
 ### Description
 Developed and optimized a supervised machine learning model to accurately classify high-volume credit card transactions as either legitimate or fraudulent, addressing data imbalance challenges inherent in fraud detection.
@@ -41,7 +41,7 @@ Financial institutions lose significant revenue due to fraudulent transactions, 
 
 
 ## Project 2: Predictive Modeling of G20 GDP Per Capita
-[Link to code](https://github.com/MinaGong/gdp_prediction)
+[Link to the project](https://github.com/MinaGong/gdp_prediction)
 ### Description
 Developed and optimized a Random Forest Regressor using World Bank time-series data to predict GDP per capita for G20 countries, specifically evaluating the predictive role of stock market activity.
 ### Key skills used
