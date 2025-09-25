@@ -14,8 +14,6 @@ My top skills are:
 * Data Visualization: matplotlib, seaborn, plotly, ggplot2, Tableau
 * Cloud Tools: Google Big Query
 
-One of my greatest accomplishments is developing and scaling a decision-support tool for global vaccine behavior analysis that was published in Nature and featured in The New York Times, ultimately reaching over 29,000 users across 102 countries.
-
 I invite you to explore my projects. Feel free to email me at mathminagong@gmail.com with any questions or feedback!
 
 # Projects
