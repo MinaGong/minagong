@@ -28,6 +28,8 @@ Developed and optimized a supervised machine learning model to accurately classi
 Handling imbalanced datasets, Classification (Logistic Regression, XGBoost, SVC, Random Forest Classification), Clustering (isolation forest anomaly detection), Feature Engineering, Python (scikit-learn)
 
 
+
+
 ## Project 2: Customer Segmentation using E-commerce Data
 [Link to the project](https://github.com/MinaGong/customer_segmentation/)
 ### Description
@@ -35,6 +37,8 @@ A comprehensive segmentation project using an online retail dataset, employing a
 
 ### Key skills used
 K-Means Clustering, DBSCAN Clustering, RFM Modeling, Feature Engineering, PCA
+
+
 
 
 ## Project 3: Predictive Modeling of G20 GDP Per Capita
