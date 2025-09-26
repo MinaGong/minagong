@@ -9,7 +9,7 @@ My goals are: To leverage my expertise in predictive modeling and statistical co
 My top skills are:
 
 * Machine Learning: scikit-learn, XGBoost, model evaluation, feature selection
-* Statistical Analysis: hypothesis testing, A/B testing, ANOVA, factor analysis, LDA
+* Statistical Analysis: hypothesis testing, A/B testing, ANOVA, TimeSeries Analysis
 * Programming: Python (numpy, pandas, statsmodels), R, SQL
 * Data Visualization: matplotlib, seaborn, plotly, ggplot2, Tableau
 * Cloud Tools: Google Big Query
