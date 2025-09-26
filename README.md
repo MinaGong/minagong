@@ -28,7 +28,16 @@ Developed and optimized a supervised machine learning model to accurately classi
 Handling imbalanced datasets, Classification (Logistic Regression, XGBoost, SVC, Random Forest Classification), Clustering (isolation forest anomaly detection), Feature Engineering, Python (scikit-learn)
 
 
-## Project 2: Predictive Modeling of G20 GDP Per Capita
+## Project 2: Customer Segmentation using E-commerce Data
+[Link to the project](https://github.com/MinaGong/customer_segmentation/)
+### Description
+A comprehensive segmentation project using an online retail dataset, employing advanced feature engineering (RFM, Text Analysis, Time-Series) and multiple unsupervised clustering algorithms to define actionable customer archetypes.
+
+### Key skills used
+K-Means Clustering, DBSCAN Clustering, RFM Modeling, Feature Engineering, PCA
+
+
+## Project 3: Predictive Modeling of G20 GDP Per Capita
 [Link to the project](https://github.com/MinaGong/gdp_prediction)
 ### Description
 Developed and optimized a Random Forest Regressor using World Bank time-series data to predict GDP per capita for G20 countries, specifically evaluating the predictive role of stock market activity.
@@ -36,4 +45,4 @@ Developed and optimized a Random Forest Regressor using World Bank time-series d
 ### Key skills used
 Random Forest Regressor, Regularization, Feature Engineering (Lag Variables), Feature Importance, Statistical Analysis
 
-==
+
