@@ -25,7 +25,7 @@ I invite you to explore my projects. Feel free to email me at mathminagong@gmail
 Developed and optimized a supervised machine learning model to accurately classify high-volume credit card transactions as either legitimate or fraudulent, addressing data imbalance challenges inherent in fraud detection.
 
 ### Key skills used
-Handling imbalanced datasets, Classification (Logistic Regression, XGBoost, SVC, Random Forest Classification), Clustering (isolation forest anomaly detection), Feature Engineering, Python (scikit-learn)
+Handling imbalanced datasets, Classification (Logistic Regression, XGBoost, SVC, Random Forest Classification), Clustering (Isolation forest anomaly detection), Feature Engineering, Python (scikit-learn)
 
 
 
@@ -33,10 +33,10 @@ Handling imbalanced datasets, Classification (Logistic Regression, XGBoost, SVC,
 ## Project 2: Customer Segmentation using E-commerce Data
 [Link to the project](https://github.com/MinaGong/customer_segmentation/)
 ### Description
-A comprehensive segmentation project using an online retail dataset, employing advanced feature engineering (RFM, Text Analysis, Time-Series) and multiple unsupervised clustering algorithms to define actionable customer archetypes.
+A comprehensive segmentation project using an online retail dataset, employing advanced feature engineering (RFM, Text Analysis, Time-Series) and an unsupervised clustering algorithm to define actionable customer archetypes.
 
 ### Key skills used
-K-Means Clustering, DBSCAN Clustering, RFM Modeling, Feature Engineering, PCA
+K-Means Clustering, RFM Modeling, Feature Engineering, PCA
 
 
 
